@@ -1,0 +1,228 @@
+2026-05-19 15:43:15,777 - INFO - Connecting to 192.168.1.101
+2026-05-19 15:43:15,784 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:43:16,320 - INFO - Authentication (password) successful!
+2026-05-19 15:43:16,627 - INFO - Logged into 192.168.1.101 successfully
+2026-05-19 15:43:19,697 - INFO - Pushed config to 192.168.1.101 successfully
+2026-05-19 15:43:19,719 - INFO - Connecting to 192.168.1.102
+2026-05-19 15:43:19,723 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:43:20,255 - INFO - Authentication (password) successful!
+2026-05-19 15:43:20,485 - INFO - Logged into 192.168.1.102 successfully
+2026-05-19 15:43:22,618 - INFO - Pushed config to 192.168.1.102 successfully
+2026-05-19 15:43:22,628 - INFO - Connecting to 192.168.1.103
+2026-05-19 15:43:22,631 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:43:23,163 - INFO - Authentication (password) successful!
+2026-05-19 15:43:23,433 - INFO - Logged into 192.168.1.103 successfully
+2026-05-19 15:43:25,792 - INFO - Pushed config to 192.168.1.103 successfully
+2026-05-19 15:43:25,829 - INFO - Connecting to 192.168.1.104
+2026-05-19 15:43:25,833 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:43:26,175 - INFO - Authentication (password) successful!
+2026-05-19 15:43:26,445 - INFO - Logged into 192.168.1.104 successfully
+2026-05-19 15:43:28,525 - INFO - Pushed config to 192.168.1.104 successfully
+2026-05-19 15:43:28,546 - INFO - All devices configured successfully!
+2026-05-19 15:44:48,315 - INFO - Connecting to 192.168.1.101
+2026-05-19 15:44:48,324 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:44:50,867 - INFO - Authentication (password) failed.
+2026-05-19 15:44:50,869 - ERROR - ERROR on 192.168.1.101: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.101:22
+
+
+Authentication failed.
+2026-05-19 15:44:50,869 - INFO - Connecting to 192.168.1.102
+2026-05-19 15:44:50,873 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:44:53,412 - INFO - Authentication (password) failed.
+2026-05-19 15:44:53,416 - ERROR - ERROR on 192.168.1.102: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.102:22
+
+
+Authentication failed.
+2026-05-19 15:44:53,416 - INFO - Connecting to 192.168.1.103
+2026-05-19 15:44:53,419 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:44:55,970 - INFO - Authentication (password) failed.
+2026-05-19 15:44:55,972 - ERROR - ERROR on 192.168.1.103: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.103:22
+
+
+Authentication failed.
+2026-05-19 15:44:55,972 - INFO - Connecting to 192.168.1.104
+2026-05-19 15:44:55,976 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:44:58,519 - INFO - Authentication (password) failed.
+2026-05-19 15:44:58,522 - ERROR - ERROR on 192.168.1.104: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.104:22
+
+
+Authentication failed.
+2026-05-19 15:56:46,566 - INFO - Connecting to 192.168.1.101
+2026-05-19 15:56:46,573 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:56:49,116 - INFO - Authentication (password) failed.
+2026-05-19 15:56:49,118 - ERROR - ERROR on 192.168.1.101: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.101:22
+
+
+Authentication failed.
+2026-05-19 15:56:49,118 - INFO - Connecting to 192.168.1.102
+2026-05-19 15:56:49,122 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:56:51,657 - INFO - Authentication (password) failed.
+2026-05-19 15:56:51,658 - ERROR - ERROR on 192.168.1.102: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.102:22
+
+
+Authentication failed.
+2026-05-19 15:56:51,659 - INFO - Connecting to 192.168.1.103
+2026-05-19 15:56:51,662 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:56:54,208 - INFO - Authentication (password) failed.
+2026-05-19 15:56:54,211 - ERROR - ERROR on 192.168.1.103: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.103:22
+
+
+Authentication failed.
+2026-05-19 15:56:54,211 - INFO - Connecting to 192.168.1.104
+2026-05-19 15:56:54,215 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:56:56,753 - INFO - Authentication (password) failed.
+2026-05-19 15:56:56,757 - ERROR - ERROR on 192.168.1.104: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.104:22
+
+
+Authentication failed.
+2026-05-19 15:56:56,757 - INFO - All devices configured successfully!
+2026-05-19 15:59:34,310 - INFO - Connecting to 192.168.1.101
+2026-05-19 15:59:34,316 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:59:36,854 - INFO - Authentication (password) failed.
+2026-05-19 15:59:36,856 - ERROR - ERROR on 192.168.1.101: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.101:22
+
+
+Authentication failed.
+2026-05-19 15:59:36,857 - INFO - Connecting to 192.168.1.102
+2026-05-19 15:59:36,860 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:59:39,397 - INFO - Authentication (password) failed.
+2026-05-19 15:59:39,399 - ERROR - ERROR on 192.168.1.102: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.102:22
+
+
+Authentication failed.
+2026-05-19 15:59:39,399 - INFO - Connecting to 192.168.1.103
+2026-05-19 15:59:39,403 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:59:41,980 - INFO - Authentication (password) failed.
+2026-05-19 15:59:41,983 - ERROR - ERROR on 192.168.1.103: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.103:22
+
+
+Authentication failed.
+2026-05-19 15:59:41,984 - INFO - Connecting to 192.168.1.104
+2026-05-19 15:59:41,990 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 15:59:44,336 - INFO - Authentication (password) failed.
+2026-05-19 15:59:44,338 - ERROR - ERROR on 192.168.1.104: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.104:22
+
+
+Authentication failed.
+2026-05-19 15:59:44,339 - INFO - All devices configured successfully!
+2026-05-19 16:02:09,212 - INFO - Connecting to 192.168.1.101
+2026-05-19 16:02:09,219 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:02:09,763 - INFO - Authentication (password) successful!
+2026-05-19 16:02:10,040 - INFO - Logged into 192.168.1.101 successfully
+2026-05-19 16:02:13,203 - INFO - Pushed config to 192.168.1.101 successfully
+2026-05-19 16:02:13,224 - INFO - Connecting to 192.168.1.102
+2026-05-19 16:02:13,228 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:02:13,772 - INFO - Authentication (password) successful!
+2026-05-19 16:02:14,044 - INFO - Logged into 192.168.1.102 successfully
+2026-05-19 16:02:15,734 - INFO - Pushed config to 192.168.1.102 successfully
+2026-05-19 16:02:15,744 - INFO - Connecting to 192.168.1.103
+2026-05-19 16:02:15,747 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:02:16,262 - INFO - Authentication (password) successful!
+2026-05-19 16:02:16,512 - INFO - Logged into 192.168.1.103 successfully
+2026-05-19 16:02:18,518 - INFO - Pushed config to 192.168.1.103 successfully
+2026-05-19 16:02:18,540 - INFO - Connecting to 192.168.1.104
+2026-05-19 16:02:18,544 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:02:19,077 - INFO - Authentication (password) successful!
+2026-05-19 16:02:19,305 - INFO - Logged into 192.168.1.104 successfully
+2026-05-19 16:02:21,289 - INFO - Pushed config to 192.168.1.104 successfully
+2026-05-19 16:02:21,311 - INFO - All devices configured successfully!
+2026-05-19 16:02:24,227 - INFO - Connecting to 192.168.1.101
+2026-05-19 16:02:24,248 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:02:24,769 - INFO - Authentication (password) successful!
+2026-05-19 16:02:25,863 - INFO - Routing table collected from 192.168.1.101
+2026-05-19 16:02:25,863 - INFO - Connecting to 192.168.1.102
+2026-05-19 16:02:25,874 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:02:26,213 - INFO - Authentication (password) successful!
+2026-05-19 16:02:26,586 - INFO - Routing table collected from 192.168.1.102
+2026-05-19 16:02:26,586 - INFO - Connecting to 192.168.1.103
+2026-05-19 16:02:26,590 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:02:27,137 - INFO - Authentication (password) successful!
+2026-05-19 16:02:27,576 - INFO - Routing table collected from 192.168.1.103
+2026-05-19 16:02:27,577 - INFO - Connecting to 192.168.1.104
+2026-05-19 16:02:27,580 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:02:28,108 - INFO - Authentication (password) successful!
+2026-05-19 16:02:28,579 - INFO - Routing table collected from 192.168.1.104
