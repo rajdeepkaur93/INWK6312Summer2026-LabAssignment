@@ -1,0 +1,297 @@
+
+Xvnc TigerVNC 1.10.0 - built Apr  9 2020 06:49:31
+Copyright (C) 1999-2019 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12008000, The X.Org Foundation
+
+
+Wed Dec 15 18:52:20 2021
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on local interface(s), port 5901
+ vncext:      created VNC server for screen 0
+/usr/bin/startxfce4: X server already running on display :1
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent[7928]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:7866): xfce4-session-WARNING **: 18:52:21.011: gpg-agent returned no PID in the variables
+
+(xfce4-session:7866): xfce4-session-WARNING **: 18:52:21.015: xfsm_manager_load_session: Something wrong with /home/student/.cache/sessions/xfce4-session-6312VM-CSR71:1, Does it exist? Permissions issue?
+
+(xfwm4:7931): GLib-CRITICAL **: 18:52:21.271: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfwm4:7931): xfwm4-WARNING **: 18:52:23.083: Another compositing manager is running on screen 0
+
+(xfsettingsd:7935): GLib-CRITICAL **: 18:52:23.194: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:7935): GLib-GObject-CRITICAL **: 18:52:23.202: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:7935): GLib-GObject-CRITICAL **: 18:52:23.204: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+xfce4-panel-Message: 18:52:23.679: Plugin "statusnotifier-7" was not found and has been removed from the configuration
+Failure: Module initialization failed
+Tracker-Message: 18:52:23.707: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 18:52:23.707: Setting priority nice level to 19
+Tracker-Message: 18:52:23.722: Set scheduler policy to SCHED_IDLE
+
+** (xiccd:7959): WARNING **: 18:52:23.722: EDID is empty
+Tracker-Message: 18:52:23.722: Setting priority nice level to 19
+
+** (light-locker:7956): ERROR **: 18:52:23.740: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+** (xiccd:7959): CRITICAL **: 18:52:23.763: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+
+** (xiccd:7959): CRITICAL **: 18:52:23.774: device 'xrandr-Virtual1' does not exist
+Geolocation service not in use
+
+** (update-notifier:8005): WARNING **: 18:52:24.004: already running?
+
+(wrapper-2.0:7984): GLib-GIO-CRITICAL **: 18:52:24.565: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:7984): GLib-GIO-CRITICAL **: 18:52:24.565: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:7984): GLib-GObject-WARNING **: 18:52:24.565: invalid (NULL) pointer instance
+
+(wrapper-2.0:7984): GLib-GObject-CRITICAL **: 18:52:24.565: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:7984): Gtk-WARNING **: 18:52:24.565: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+** (wrapper-2.0:7980): WARNING **: 18:52:24.704: No outputs have backlight property
+
+(wrapper-2.0:7984): Gtk-WARNING **: 18:52:24.798: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:8004): Gtk-WARNING **: 18:52:24.837: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner XfceArrowButton)
+
+(wrapper-2.0:7969): Gtk-WARNING **: 18:52:24.856: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:7980): xfce4-power-manager-plugin-WARNING **: 18:52:24.859: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+
+(nm-applet:7977): Gdk-CRITICAL **: 18:52:24.920: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(wrapper-2.0:7980): Gtk-WARNING **: 18:52:24.959: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+** (xfdesktop:7950): WARNING **: 18:52:25.135: Failed to set the background '/usr/share/backgrounds/xfce/xfce-stripes.png': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.DisplayManager.AccountsService”
+Gdk-Message: 18:52:52.702: xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(xfsettingsd:7935): libxfce4ui-WARNING **: 18:52:52.706: ICE I/O Error
+
+(xfsettingsd:7935): libxfce4ui-WARNING **: 18:52:52.706: Disconnected from session manager.
+
+(xfwm4:7931): libxfce4ui-WARNING **: 18:52:52.707: ICE I/O Error
+
+(xfwm4:7931): libxfce4ui-WARNING **: 18:52:52.707: Disconnected from session manager.
+syswrite() on closed filehandle WH at /usr/bin/vncserver line 912.
+
+(xfce4-panel:7936): libxfce4ui-WARNING **: 18:52:52.709: ICE I/O Error
+
+(xfce4-panel:7936): libxfce4ui-WARNING **: 18:52:52.709: Disconnected from session manager.
+xfsettingsd: Another instance took over. Leaving...
+Gdk-Message: 18:52:52.713: xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+(Thunar:7942): thunar-WARNING **: 18:52:52.715: Name 'org.xfce.FileManager' lost on the message dbus.
+
+(Thunar:7942): thunar-WARNING **: 18:52:52.715: Name 'org.freedesktop.FileManager1' lost on the message dbus.
+
+** (xiccd:7959): WARNING **: 18:52:52.725: Exiting
+Gdk-Message: 18:52:52.729: xfsettingsd: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 18:52:52.732: xfce4-panel: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+Received signal:15->'Terminated'
+
+(tracker-miner-fs:7968): GLib-GIO-CRITICAL **: 18:52:52.733: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:7968): GLib-GIO-CRITICAL **: 18:52:52.733: Error while sending AddMatch() message: The connection is closed
+
+(tracker-miner-fs:7968): GLib-GIO-CRITICAL **: 18:52:52.733: Error while sending AddMatch() message: The connection is closed
+XIO:  fatal IO error 25 (Inappropriate ioctl for device) on X server ":1.0"
+      after 20 requests (20 known processed) with 0 events remaining.
+Gdk-Message: 18:52:52.736: wrapper-2.0: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 18:52:52.736: wrapper-2.0: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+Wed Dec 15 18:52:52 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+Gdk-Message: 18:52:52.737: wrapper-2.0: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 18:52:52.739: wrapper-2.0: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 18:52:52.740: wrapper-2.0: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 18:52:52.742: xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+OK
+
+
+Xvnc TigerVNC 1.10.0 - built Apr  9 2020 06:49:31
+Copyright (C) 1999-2019 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12008000, The X.Org Foundation
+
+
+Wed Dec 15 18:53:00 2021
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+/usr/bin/startxfce4: X server already running on display :1
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent[8298]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:8236): xfce4-session-WARNING **: 18:53:00.678: gpg-agent returned no PID in the variables
+
+(xfce4-session:8236): xfce4-session-WARNING **: 18:53:00.683: xfsm_manager_load_session: Something wrong with /home/student/.cache/sessions/xfce4-session-6312VM-CSR71:1, Does it exist? Permissions issue?
+
+(xfwm4:8300): xfwm4-WARNING **: 18:53:01.094: Unsupported GL renderer (llvmpipe (LLVM 12.0.0, 256 bits)).
+
+** (wrapper-2.0:8333): WARNING **: 18:53:01.682: No outputs have backlight property
+
+(wrapper-2.0:8334): GLib-GIO-CRITICAL **: 18:53:01.738: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:8334): GLib-GIO-CRITICAL **: 18:53:01.738: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:8334): GLib-GObject-WARNING **: 18:53:01.738: invalid (NULL) pointer instance
+
+(wrapper-2.0:8334): GLib-GObject-CRITICAL **: 18:53:01.738: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:8334): Gtk-WARNING **: 18:53:01.738: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:8334): Gtk-WARNING **: 18:53:01.808: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:8333): Gtk-WARNING **: 18:53:01.824: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+Failure: Module initialization failed
+Tracker-Message: 18:53:01.881: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 18:53:01.881: Setting priority nice level to 19
+
+(wrapper-2.0:8335): Gtk-WARNING **: 18:53:01.881: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner XfceArrowButton)
+Tracker-Message: 18:53:01.894: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 18:53:01.894: Setting priority nice level to 19
+
+** (xiccd:8357): WARNING **: 18:53:01.922: EDID is empty
+
+** (xiccd:8357): CRITICAL **: 18:53:01.944: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+
+** (light-locker:8353): ERROR **: 18:53:01.949: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+(wrapper-2.0:8332): Gtk-WARNING **: 18:53:01.999: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+** (xiccd:8357): CRITICAL **: 18:53:02.026: device 'xrandr-Virtual1' does not exist
+Geolocation service not in use
+
+** (update-notifier:8400): WARNING **: 18:53:02.133: already running?
+
+** (xfdesktop:8328): WARNING **: 18:53:02.675: Failed to set the background '/usr/share/backgrounds/xfce/xfce-stripes.png': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.DisplayManager.AccountsService”
+
+Wed Dec 15 18:53:05 2021
+ Connections: accepted: 10.0.105.84::57313
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+
+Wed Dec 15 18:53:08 2021
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 6 (8bpp) rgb222
+
+Wed Dec 15 18:53:12 2021
+ VNCSConnST:  closing 10.0.105.84::57313: Clean disconnection
+ EncodeManager: Framebuffer updates: 8
+ EncodeManager:   RRE:
+ EncodeManager:     Solid: 10 rects, 581.73 kpixels
+ EncodeManager:            170 B (1:3422.65 ratio)
+ EncodeManager:   ZRLE:
+ EncodeManager:     Bitmap RLE: 5 rects, 235.27 kpixels
+ EncodeManager:                 458 B (1:513.821 ratio)
+ EncodeManager:     Indexed RLE: 32 rects, 1.50167 Mpixels
+ EncodeManager:                  11.0166 KiB (1:133.149 ratio)
+ EncodeManager:   Total: 47 rects, 2.31867 Mpixels
+ EncodeManager:          11.6299 KiB (1:194.746 ratio)
+ TcpSocket:   unable to get peer name for socket
+ Connections: closed: ::0
+ ComparingUpdateTracker: 2.29565 Mpixels in / 21.238 kpixels out
+ ComparingUpdateTracker: (1:108.092 ratio)
+Warning: VNC extension does not support -reset, terminating instead. Use -noreset to prevent termination.
+Gdk-Message: 18:53:47.526: xfwm4: Fatal IO error 4 (Interrupted system call) on X server :1.
+
+Gdk-Message: 18:53:47.585: xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+Wed Dec 15 18:53:47 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Xvnc TigerVNC 1.10.0 - built Apr  9 2020 06:49:31
+Copyright (C) 1999-2019 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12008000, The X.Org Foundation
+
+
+Fri Dec 17 14:33:49 2021
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+/usr/bin/startxfce4: X server already running on display :1
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent[1653]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:1590): xfce4-session-WARNING **: 14:33:50.592: gpg-agent returned no PID in the variables
+
+(xfce4-session:1590): xfce4-session-WARNING **: 14:33:50.597: xfsm_manager_load_session: Something wrong with /home/student/.cache/sessions/xfce4-session-6312VM-CSR71:1, Does it exist? Permissions issue?
+
+(xfwm4:1656): xfwm4-WARNING **: 14:33:51.276: Unsupported GL renderer (llvmpipe (LLVM 12.0.0, 256 bits)).
+Failure: Module initialization failed
+Tracker-Message: 14:33:52.100: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 14:33:52.100: Setting priority nice level to 19
+Tracker-Message: 14:33:52.192: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 14:33:52.192: Setting priority nice level to 19
+
+** (light-locker:1696): ERROR **: 14:33:52.196: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+** (xiccd:1711): WARNING **: 14:33:52.243: EDID is empty
+
+** (xiccd:1711): CRITICAL **: 14:33:52.307: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+
+(wrapper-2.0:1690): GLib-GIO-CRITICAL **: 14:33:52.448: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:1690): GLib-GIO-CRITICAL **: 14:33:52.448: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:1690): GLib-GObject-WARNING **: 14:33:52.450: invalid (NULL) pointer instance
+
+(wrapper-2.0:1690): GLib-GObject-CRITICAL **: 14:33:52.450: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:1690): Gtk-WARNING **: 14:33:52.450: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+** (wrapper-2.0:1689): WARNING **: 14:33:52.452: No outputs have backlight property
+Geolocation service not in use
+
+(wrapper-2.0:1690): Gtk-WARNING **: 14:33:52.578: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1689): Gtk-WARNING **: 14:33:52.748: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:1691): Gtk-WARNING **: 14:33:52.778: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner XfceArrowButton)
+
+(wrapper-2.0:1688): Gtk-WARNING **: 14:33:52.848: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+Error executing command as another user: Not authorized
+
+This incident has been reported.
+Geolocation service not in use
+
+** (xiccd:1711): CRITICAL **: 14:37:06.950: device 'xrandr-Virtual1' does not exist
+
+(wrapper-2.0:1688): pulseaudio-plugin-WARNING **: 14:37:35.269: Disconected from the PulseAudio server. Attempting to reconnect in 5 seconds.
+Gdk-Message: 14:37:35.343: xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Gdk-Message: 14:37:35.348: xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+Warning: VNC extension does not support -reset, terminating instead. Use -noreset to prevent termination.
+Gdk-Message: 14:37:35.441: xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :1.
+
+
+Fri Dec 17 14:37:35 2021
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
